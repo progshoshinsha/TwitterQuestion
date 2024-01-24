@@ -1,0 +1,25 @@
+@charset "utf-8";
+* {
+   margin: 0;
+   padding: 0;
+}
+
+ul {
+   list-style: none;
+}
+
+.container {
+   max-width: 1000px;
+   margin: 0 auto;
+   text-align: center;
+}
+
+.twitter-tweet {
+   margin: 0 auto;
+}
+
+.twitter-follow-button {
+   margin-top: 10px;
+}
+
+
